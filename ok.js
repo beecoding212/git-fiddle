@@ -1,2 +1,2 @@
-var ok = "OK";
-console.log(ok); 
+var ok = "OK! Go!!!";
+console.log(ok);
