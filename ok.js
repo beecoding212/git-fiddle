@@ -1,2 +1,2 @@
-var ok = "Alhamdulillah. OK! Go!!!";
+var ok = "Alhamdulillah. Subhanallah. OK! Go!!!";
 console.log(ok);
